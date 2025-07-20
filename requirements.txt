@@ -2,4 +2,5 @@ streamlit
 opencv-python-headless
 numpy
 insightface
+onnxruntime
 Pillow
